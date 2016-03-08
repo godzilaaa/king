@@ -1,15 +1,14 @@
 do
 
 function run(msg, matches)
-  return 'NOD32-BOT v8'.. VERSION .. [[ 
+  return 'kings v8'.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
+  Developer : @soltoonalpha
   
-  Channel : @Nod32team
   
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
+  Open git : https://github.com/godzilaaa/king.git
   
-  NOD32 VERSION 8
+  kings VERSION 8
   
   All rights reserved.
   __________________]]
